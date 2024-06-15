@@ -1,2 +1,2 @@
 # habitica-md
-Basic plugin to sync Obisidan to-do's with tasks in Habitica.
+Basic plugin to sync Obsidian to-do's with tasks in Habitica.
