@@ -1,0 +1,20 @@
+{
+  "name": "habitica-md",
+  "version": "1.0.0",
+  "description": "Basic plugin to sync Obsidian to-do's with tasks in Habitica.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "obsidian": "^1.5.7-1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
+  }
+}

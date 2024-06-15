@@ -1,0 +1,9 @@
+{
+  "id": "habitica-md",
+  "name": "HabiticaMD Plugin",
+  "description": "Basic plugin to sync Obsidian to-do's with tasks in Habitica.",
+  "author": "Mason",
+  "isDesktopOnly": false,
+  "js": "dist/main.js",
+  "version": "0.0.1"
+}
